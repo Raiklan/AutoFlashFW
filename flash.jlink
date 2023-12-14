@@ -1,0 +1,5 @@
+erase
+loadbin APPLICATION_BINARY.elf.bin, 0x0800000
+r
+g
+
