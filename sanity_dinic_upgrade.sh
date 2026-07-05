@@ -4,7 +4,7 @@
 dir_marker_tmp=/tmp/marker-tmp
 index_file=${dir_marker_tmp}/index.html
 log_file=${dir_marker_tmp}/upgrade.log
-URL="http://vm-rdgbuild-03.itron.com/FW_Builds/MCU/DINICMeshGlobal/development/"
+URL=""
 JLINK=/opt/SEGGER/JLink/JLinkExe
 
 mkdir -p ${dir_marker_tmp}
